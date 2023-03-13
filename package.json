@@ -33,6 +33,6 @@
   "readmeFilename": "README.md",
   "dependencies": {
     "react-native-gesture-handler": "^2.9.0",
-    "react-native-reanimated": "^3.0.2"
+    "react-native-reanimated": "^2.13.0"
   }
 }
