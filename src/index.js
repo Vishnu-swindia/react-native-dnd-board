@@ -30,7 +30,7 @@ const DraggableBoard = ({
   accessoryRight,
   activeRowStyle,
   activeRowRotation = 8,
-  xScrollThreshold = SCROLL_THRESHOLD,
+  xScrollThreshold  = SCROLL_THRESHOLD,
   yScrollThreshold = SCROLL_THRESHOLD,
   dragSpeedFactor = 1,
   onRowPress = () => { },
